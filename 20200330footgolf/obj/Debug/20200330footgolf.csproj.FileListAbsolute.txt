@@ -1,0 +1,6 @@
+C:\Users\David\source\repos\20200330footgolf\20200330footgolf\bin\Debug\20200330footgolf.exe.config
+C:\Users\David\source\repos\20200330footgolf\20200330footgolf\bin\Debug\20200330footgolf.exe
+C:\Users\David\source\repos\20200330footgolf\20200330footgolf\bin\Debug\20200330footgolf.pdb
+C:\Users\David\source\repos\20200330footgolf\20200330footgolf\obj\Debug\20200330footgolf.csprojAssemblyReference.cache
+C:\Users\David\source\repos\20200330footgolf\20200330footgolf\obj\Debug\20200330footgolf.exe
+C:\Users\David\source\repos\20200330footgolf\20200330footgolf\obj\Debug\20200330footgolf.pdb
